@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wisals
 - 👀 I’m interested in film, games, and fitness.
 - 🌱 I’m currently learning React.
-- 💞️ I’m looking to collaborate on anything that improves the efficiency of some task!
+- 💞️ I’m looking to collaborate on anything for a good cause or that improves efficiency!
 - 📫 How to reach me \[classified\]
 
 <!---
